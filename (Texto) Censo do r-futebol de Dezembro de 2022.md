@@ -13,23 +13,35 @@
    * Foram excluídos “não-usuários” da primeira e da segunda parte da análise. Esses seriam os 46 usuários (6%) que afirmaram participar do r/futebol “há um mês ou menos.” A ideia foi analisar apenas o r/futebol. Apesar de uma parte desses usuários continuar aqui após a Copa, não temos como saber quais, e nem quantos. Ainda assim, eles voltarão pra participar da segunda metade da análise mais tarde.
    * Como foi citado no início, a maioria dos clubes têm mais de 30 torcedores, e portanto podemos ficar relativamente confiantes com o rigor estatístico da análise pra eles. É apenas pra Cruzeiro, Vasco, e principalmente pra Santos, Athletico, Botafogo, e não-torcedores que precisamos fazer uma ressalva de que a amostra é muito pequena e que os dados que vemos podem ter sido causados por mero acaso.
    * Uma lição pra futuros censos é tomar mais cuidado com essa história de torcedores de dois clubes. Dos participantes do censo, 46 tiveram suas respostas excluídas dessa primeira parte da análise por responder “sim, torço pra um segundo clube,” mas depois não marcar nenhum segundo clube, ou então por marcar um segundo clube apesar de ter respondido “não, torço apenas pra um clube.”
+
+![Dashboard 1](https://user-images.githubusercontent.com/122052015/210906789-6160bc82-1c6a-42d3-a785-b4118d383f8d.png)
+
   ## “Se o futebol estivesse baseado na razão, não haveria razão para existir o futebol.”
    * Há alguns anos atrás, a moderação disponibilizou aos usuários a possibilidade de destacar dois clubes através de uma flair dupla. A criação dessa flair dupla abriu espaço pra uma pergunta sobre torcedores que torcem pra 2 clubes brasileiros, e como eles compõem a maior torcida do censo do r/futebol, iremos explorar esses usuários mais de perto.
    * Na segunda parte do censo nós vamos explorar a controvérsia que existe sobre a mera existência desse tipo de torcedor. Já no gráfico que segue no próximo slide, vemos quais clubes são os mais populares entre esses 89 usuários que têm coração de mãe.
    * O Flamengo, como já era de se esperar, é o campeão disparado, com 24 torcedores que torcem pra ele e pra outro clube brasileiro. Em seguida vêm Corinthians com 17 e Palmeiras e São Paulo com 14. Apesar dele ter sido eleito disparado o clube mais simpático do Brasil por torcedores neutros, como iremos explorar no final da análise, o Vasco teve apenas 9 torcedores que torcem pra ele e pra algum outro clube. Bahia e Sampaio Corrêa ainda entraram de fininho ali no final, ultrapassando 5 membros do clube dos 13.
    * O Botafogo e o Galo tiveram 3, o Cruzeiro e o Athletico tiveram 2, e o Inter não teve nenhum torcedor que torce pra um segundo clube.
    * Os números em parênteses mostram quantos usuários indicaram ser o primeiro ou o segundo clube. Ou seja, 11 usuários escolheram o Corinthians como o primeiro clube e 6 como o segundo clube, enquanto que 5 escolheram o São Paulo como o primeiro clube e 9 como o segundo clube. Lembrando que os participantes foram instruídos a selecionar o primeiro clube como aquele que fica geograficamente mais próximo e o segundo clube como aquele que fica geograficamente mais longe, independente de qualquer outra coisa.
+
+![Dashboard 2](https://user-images.githubusercontent.com/122052015/210906785-9dad4fad-5497-41e4-8e00-cdc128739e02.png)
+
   ## “O futebol não é uma questão de vida ou de morte. É muito mais importante que isso.”
    * Uma das perguntas inéditas no atual censo, e que foi incluída de última hora, foi a que pediu pros participantes escolherem, numa escala de 1 a 10, o quão apaixonados eles se consideram pelo futebol. Apesar de ser plausível a hipótese de que o nível de sucesso do clube influencia o quanto seu torcedor se diz apaixonado pelo futebol, não foi isso que vimos no gráfico que segue no próximo slide.
    * Com exceção do 8.36 do Corinthians e 7.17 do Botafogo, os outros times tiveram médias parecidas.
    * A média geral foi 7.95.
    * A maneira de interpretar tanto esse gráfico quanto os outros gráficos a seguir é simples. Entre todos os 35 participantes cujo único clube brasileiro é o Grêmio, a média de todas as respostas pra essa pergunta foi 8.04. Entre todos os 76 participantes cujo único clube brasileiro é o Palmeiras, a média de todas as respostas pra essa pergunta foi 8.17.
    * Como já era de se esperar, participantes que afirmaram não torcer pra nenhum clube tiveram uma média menor na sua afirmada paixão pelo futebol. Uma média de 6.20 entre os 15 que afirmaram não ter time, comparado com 7.17 pro penúltimo colocado e 7.95 pra média geral.
+
+![Dashboard 3](https://user-images.githubusercontent.com/122052015/210906779-2958e6b2-6b4a-433f-b72a-1be0db97f8f1.png)
+
   ## “Hoje é dia de guerra porra, dia de Libertadores, mané bom dia”
    * Tal como a paixão pelo futebol em geral, também é plausível a hipótese de que o nível de sucesso do clube influencia quantas partidas o usuário quer assistir por semana. Da mesma forma, o número de competições que o clube disputa influencia quantas partidas importantes o clube tem durante o ano (por exemplo, se ele participou ou não da Libertadores). Mas outra vez, não foi exatamente isso o que o censo mostrou.
    * Como vemos no gráfico que segue no próximo slide, o Fluminense foi o campeão disparado, e o único clube cujo os torcedores afirmaram assistir mais do que 3 partidas por semana em média – 3.27, pra ser mais exato. Apesar do Flamengo ter chegado à final tanto da Libertadores quanto da Copa do Brasil, seus torcedores só afirmaram assistir 2.43 partidas por semana, em média.
    * Apesar deles terem o dobro de clubes que gostariam de acompanhar, os bi-torcedores só assistiram em média 2.46 partidas por semana, atrás de cinco clubes, e abaixo da média geral de 2.49 partidas por semana.
    * Outra vez, como já era esperado, os não-torcedores ficaram em último – média de 1.58, comparado com 1.69 do Santos e 1.85 do Cruzeiro.
+
+![Dashboard 4](https://user-images.githubusercontent.com/122052015/210906739-6ad515a3-82a5-475f-a78a-55102702ce0a.png)
+
   ## “A torcida paga ingresso para ver o time vencer. Quem quiser ver espetáculo que vá ao Teatro Municipal.”
    * A discrepância entre os clubes foi muito maior no tema de partidas assistidas no estádio em 2022 do que no tema de partidas assistidas em geral por semana, como vemos no gráfico que segue no próximo slide.
    * O Athletico foi disparado o clube cujo os torcedores mais comparaceram a um estádio. Os 14 athleticanos compareceram em média a absurdas 4.18 partidas até Dezembro de 2022, comparado com apenas 2.78 dos “Outros” e 2.02 do Inter.
@@ -37,6 +49,9 @@
    * Faz sentido, na minha opinião, que participantes da categoria “Outros” tenham uma média maior que a dos clubes grandes. Esses participantes em geral torcem pra clubes menores e mais locais, onde a distância pro estádio é menor. O valor do ingresso também tende a ser bem menor. O que não faz tanto sentido é a média de torcedores de 2 clubes ser tão baixa.
    * Mais uma vez, os não-torcedores ficaram em último. Mas ainda assim, é bem surpreendente nenhum dos 14 membros dessa categoria ter ido uma única vez ao estádio em 2022.
    * Há vários fatores que podem influenciar esses números, por exemplo, a quantidade de torcedores que são de outros estados, algo comum entre os clubes do Rio. Iremos explorar essa questão a seguir.
+
+![Dashboard 5](https://user-images.githubusercontent.com/122052015/210906716-d130d6d8-23ed-4d8b-a156-c3074dfe3c91.png)
+
   ## “A distância faz ao amor aquilo que o vento faz ao fogo: apaga o pequeno, inflama o grande.”
    * De acordo com [um estudo com base em dados do IBGE,](https://www.mg.superesportes.com.br/app/noticias/futebol/interior/2012/03/20/noticia_interior,212402/estudo-confirma-que-mineiros-torcem-mais-para-clubes-locais-que-de-outros-estados.shtml) 74% da torcida do Flamengo e 71% da torcida do Vasco vêm de outros estados, enquanto que esses números são cerca de 50% pros times da cidade de São Paulo, cerca de 40% pros outros do Rio, 36% pro Santos, 25% pros gaúchos, e cerca de 10% pros mineiros e pro Athletico.
    * Os dados do nosso censo não corroboraram os números dessa pesquisa, nem de perto. Ainda assim, o ranking geral foi mais ou menos parecido. De fato o Flamengo se sagrou campeão, seguido de perto pelo Vasco, como vemos no gráfico que segue no próximo slide.
@@ -44,6 +59,8 @@
    * A média geral foi 22.7%.
    * Perceba que nosso censo não tem como saber se o usuário nasceu em outro estado, cresceu no estado do seu clube, e depois voltou a morar em outro estado.
    * Não temos dados sobre as categorias “Outros” e “2 clubes,” pois seria bem trabalhoso correr atrás.
+
+![Dashboard 6](https://user-images.githubusercontent.com/122052015/210906633-74fa84ae-d3aa-4f31-988a-2e6571a57b7c.png)
 
 # Parte 2
   ## “Quem diz que o futebol não tem lógica ou não entende de futebol ou não sabe o que é lógica.”
@@ -53,6 +70,9 @@
    * Apesar de ter poucos torcedores de outros estados, as torcidas do Grêmio e do Cruzeiro foram relativamente tolerantes quanto a essa questão. Entre eles, 21% acham um absurdo torcer pra dois clubes, comparado com 35% dos colorados, 35% dos atleticanos, e 43% dos athleticanos.
    * A média geral de intolerância (aqueles que acham isso um absurdo) foi 23%.
    * Foram excluídos desse gráfico e das estatísticas de intolerância aqueles participantes que escreveram respostas fora do padrão.
+
+![Dashboard 7](https://user-images.githubusercontent.com/122052015/210906803-7e957920-d525-4cd2-ab82-6d46a5f38c6f.png)
+
   ## “Não são as nossas diferenças que nos dividem. É nossa incapacidade de reconhecer, aceitar e celebrar essas diferenças.”
    * O Brasil sempre foi um país bastante diverso. O próprio idioma ilustra esse nível de diversidade. A língua portuguesa tem uma palavra que nem sequer existe no Inglês, e uma palavra que inclusive fez parte desse censo: pardo. Como podemos ver [nesses](https://upload.wikimedia.org/wikipedia/commons/0/07/Brancos_no_Brasil.png) dois [mapas](https://upload.wikimedia.org/wikipedia/commons/f/fa/Munic%C3%ADpios_do_Brasil_-_Grupos_%C3%A9tnico-raciais_predominantes.png) da wikipédia, a diversidade varia de região em região em região. A principal maneira, é claro, é que o Sul e o Sudeste tende a ter uma forte diáspora europeia e portanto a maioria branca, enquanto o Norte e o Nordeste tende a ter maior mistura com negros e portanto a maioria pardos. Mas além disso, o Brasil também tem uma forte diáspora japonesa e asiática em geral. Afinal, São Paulo é a capital japonesa fora do Japão. E o Brasil também tem uma forte diáspora libanesa e árabe em geral.
    * Portanto, é de se esperar que a demografia também varie de acordo com a torcida de cada clube, e levando isso em consideração, houve várias surpresas no nosso censo, como podemos ver no gráfico que segue no próximo slide.
@@ -61,18 +81,27 @@
    * Inter e Grêmio ficaram praticamente empatados em 2º e 3º mais brancos, respectivamente, enquanto que a torcida do Athletico no censo é 100% branca.
    * A categoria “outros” consiste de 16 asiáticos (2%), 4 árabes (0.5%), e 33 misturados (5%). Não temos como saber qual que é a mistura, e teoricamente é possível que alguém com pai negro e mãe branca selecione essa opção.
    * A média geral foi de 68.3% brancos, o que evidentemente é muito maior do que ela é na população brasileira em geral.
+
+![Dashboard 11](https://user-images.githubusercontent.com/122052015/210906930-f2d87516-2abd-4d9f-9027-b5c91bb0984e.png)
+
   ## “Se macumba ganhasse jogo, o Campeonato Baiano terminava empatado.”
    * Quem é das antigas no reddit sabe que a maioria dos usuários sempre são lurkers, e que o conteúdo que o pessoal consome é criado pela minoria. No r/futebol não foi diferente, mas até que de acordo com o censo a proporção não foi tão alta quanto eu imaginava, tal como podemos ver no gráfico que segue no próximo slide. Porém, leve em consideração que usuários mais participativos no subreddit são mais propensos a responder um censo do subreddit.
    * Foi considerado usuário “ativo” aqueles que afirmaram criar threads ou escrever comentários seguidamente, enquanto que foram considerados lurkers aqueles que costumam só ler, e raramente escrevem comentários ou criam threads.
    * Nenhum clube se sagrou campeão, mas sim os torcedores de 2 clubes. Desses, 63% dos usuários são ativos, seguidos pelo Palmeiras com 56% e Cruzeiro com 52%.
    * Apesar de fazer sentido serem mais lurkers, os não-torcedores tiveram apenas o 3º menor nível de engajamento. Curiosamente, o pior foi o Athletico com 29%, seguido pelo Atlético-MG com 32%, mesmo que esses dois tenham sido times vencedores nos últimos anos.
    * A média geral foi de 47.2% ativos.
+
+![Dashboard 8](https://user-images.githubusercontent.com/122052015/210907061-95c5b6cb-f82d-4769-84e7-ae32e2121e78.png)
+
   ## “A parte chata de discutir futebol, política e religião não é a discussão em si, mas o fato de que é inútil argumentar contra fanáticos.”
    * Quem é das antigas no reddit sabe que a maioria dos usuários sempre são lurkers, e que o conteúdo que o pessoal consome é criado pela minoria. No r/futebol não foi diferente, mas até que de acordo com o censo a proporção não foi tão alta quanto eu imaginava, tal como podemos ver no gráfico que segue no próximo slide. Porém, leve em consideração que usuários mais participativos no subreddit são mais propensos a responder um censo do subreddit.
    * Foi considerado usuário “ativo” aqueles que afirmaram criar threads ou escrever comentários seguidamente, enquanto que foram considerados lurkers aqueles que costumam só ler, e raramente escrevem comentários ou criam threads.
    * Nenhum clube se sagrou campeão, mas sim os torcedores de 2 clubes. Desses, 63% dos usuários são ativos, seguidos pelo Palmeiras com 56% e Cruzeiro com 52%.
    * Apesar de fazer sentido serem mais lurkers, os não-torcedores tiveram apenas o 3º menor nível de engajamento. Curiosamente, o pior foi o Athletico com 29%, seguido pelo Atlético-MG com 32%, mesmo que esses dois tenham sido times vencedores nos últimos anos.
    * A média geral foi de 47.2% ativos.
+
+![Dashboard 9](https://user-images.githubusercontent.com/122052015/210907077-32a18732-0165-4b6a-9af4-174454798590.png)
+
   ## “Tem muito conteúdo aqui que pode muito bem ir pro /r/Flamengo e ninguém aqui sentiria falta.”
    * Em 2022 estourou a quantidade de inscritos no r/futebol, e estourou também o número de inscritos em vários subreddits de clubes. Flamengo, Palmeiras, Corinthians, São Paulo, e Inter têm hoje mais membros nos seus subreddits do que o r/futebol tinha em Janeiro de 2020.
    * Apesar de ser uma comunidade jovem, e apesar do reddit como plataforma tornar bem difícil o crescimento de comunidades novas, o r/CRFla deu a volta por cima e usurpou o trono do r/Flamengo. O subreddit foi criado devido à tirania do seu antecessor, e hoje conta com mais de 35,000 inscritos, tendo ultrapassado o r/Benfica e se tornado o maior subreddit de um clube no idioma Português.
@@ -82,12 +111,26 @@
    * A média geral de falta de engajamento foi 40.5%. 
    * Foram excluídos desse gráfico e dessas estatísticas aqueles participantes que escreveram respostas fora do padrão.
 
+![Dashboard 10](https://user-images.githubusercontent.com/122052015/210907096-0bc68812-9480-432f-8218-4553704e2c84.png)
+
 # Parte 3
   ## “O grande mito do nosso tempo é que a tecnologia é comunicação.”
    * O reddit selecionou o r/futebol pra ser a comunidade que representa o Brasil na Copa do Mundo. Isso proporcionou uma onda imensa de novos usuários que não participavam do sub até então. Começou no dia 10/11, mais de uma semana antes do início da Copa, quando tivemos 2,259 novos inscritos só naquele dia. De 10/11 até 30/11 tivemos 2,462 novos inscritos por dia em média, com picos dia 21 e 22, quando tivemos 6,246 e 7,729, respectivamente. Essa média se manteve até dia 6 de Dezembro, proporcionando quase um mês no total.
    * Muito se falou sobre esse suposto dilúvio de novos usuários no r/futebol, mas pelo menos de acordo com o censo, ele não aconteceu. Ou melhor, não muito. Apenas 6% dos participantes afirmaram ter vindo pela Copa (ou seja, ter começado a acompanhar o r/futebol há menos de 1 mês). Esse grupo não participou da primeira metade da análise, mas irá participar dessa segunda metade. 
    * Além deles, também foram criadas duas categorias de usuários. Os usuários novos foram aqueles que afirmaram ter acompanhado o r/futebol por entre 1 e 2 anos, entre 6 meses e 1 ano ou então há menos de 6 meses mas mais de 1 mês. Já os usuários veteranos foram aqueles que afirmaram acompanhar o r/futebol por entre 2 e 3 anos, entre 3 e 4 anos, entre 4 e 5 anos, ou há mais de 5 anos. Esse último grupo dos mais veteranos de todos consiste de 38 participantes (5%).
    * Pra essa terceira parte da análise, eu não irei elaborar textos sobre cada gráfico, visto que a interpretação é bem óbvia, e visto que a maioria dos gráficos são os mesmos de antes, só que agora estamos comparando tipos de usuário invés de clubes. Portanto, os próximos 6 slides serão 6 gráficos diferentes sobre os 3 tipos de usuários.
+
+![Dashboard 12](https://user-images.githubusercontent.com/122052015/210907124-79fb233e-9e21-49d4-bf1b-e7a33aa82b0f.png)
+
+![Dashboard 13](https://user-images.githubusercontent.com/122052015/210907127-ccb0e75a-4fb1-4886-ab3e-7c8e379f724b.png)
+
+![Dashboard 14](https://user-images.githubusercontent.com/122052015/210907128-bb7b0d08-4e65-4de1-8344-8c3c45554e7b.png)
+
+![Dashboard 15](https://user-images.githubusercontent.com/122052015/210907130-bcdfccbf-d830-416d-8d54-2ba6c46a7536.png)
+
+![Dashboard 16](https://user-images.githubusercontent.com/122052015/210907131-5d2627f2-439f-42c0-aa91-548366f5f692.png)
+
+![Dashboard 17](https://user-images.githubusercontent.com/122052015/210907132-3715523e-b7f9-4ebd-bfbb-9cb8e043b56b.png)
 
 # Parte 4
   ## “Você pode tirar o brasileiro do Brasil, mas não pode tirar o Brasil do brasileiro.”
@@ -122,3 +165,11 @@
    * Outro problema do censo foi que as respostas foram muito discretas, e isso diminuiu a variabilidade de cada dado de maneira inorgânica. No futuro, invés das alternativas serem “entre 1 e 2” e “entre 3 e 4,” elas deveriam ser “1,” “2,” “3,” e “4.”
    * Algo que vale a pena manter em mente no futuro é a sugestão do u/netolokao de explorar as funcionabilidades do Google Forms e de diminuir a frequência da opção “outro.”
    * Quanto aos gráficos do apêndice, eles seguem nos próximos slides. Eu não vou escrever nada sobre eles, mas se algum deles for confuso, sintam-se à vontade pra perguntar. Também não incluí a média geral, pois exibir ela é mais trabalhoso do que parece.
+
+![Dashboard 98](https://user-images.githubusercontent.com/122052015/210907186-4e9ed5fd-0971-4b12-b626-af2eea6b2ea5.png)
+
+![Dashboard 99](https://user-images.githubusercontent.com/122052015/210907188-07cbd670-8f96-49de-b175-e76c17e3354e.png)
+
+![Dashboard 100](https://user-images.githubusercontent.com/122052015/210907189-86f93b1c-1fd5-4081-81bc-a7f4d5d03e9f.png)
+
+![Dashboard 101](https://user-images.githubusercontent.com/122052015/210907191-f90a3d45-18ef-4a3e-8d36-a417075ec81f.png)
