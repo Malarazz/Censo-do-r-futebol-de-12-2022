@@ -7,8 +7,7 @@
    * No decorrer dessa análise, lembrem-se que correlação não significa causa, e que existem diversos possíveis motivos pra vermos o que vemos. A hipótese que tu tiver em mente pode ser a realidade, ou ela pode não ser.
 
 # Parte 1
-  ## “O Flamengo tem mais torcida, 
-o Fluminense tem mais gente!”
+  ## “O Flamengo tem mais torcida, o Fluminense tem mais gente!”
    * O reddit não constitui uma amostra equilibrada da população, e podemos ver isso logo no primeiro gráfico que segue no próximo slide. Apesar das torcidas do Flamengo e Corinthians dominarem o Brasil, o Palmeiras é quem se sagrou campeão no censo do r/futebol de 2022. Isso é influenciado pelo reddit ter um viés paulista (29% dos participantes do censo nasceram e moram em São Paulo) e é influenciado pelo Palmeiras estar em ótima fase, entre outras coisas.
    * Como o título já indica, o gráfico mostra apenas torcedores que torcem pra aquele time e pra nenhum outro time brasileiro. Participantes que torcem pra apenas um clube que não faz parte do clube dos 13 compõem a categoria “Outros,” enquanto que participantes que torcem pra 2 clubes brasileiros óbviamente compõem a categoria “2 clubes.” Se um participante afirmou torcer pra São Paulo e pra River Plate, por exemplo, ele seria considerado um torcedor do São Paulo nesse gráfico, mas se ele torce apenas pro River Plate, ele entraria como “Outros.”
    * Foram excluídos “não-usuários” da primeira e da segunda parte da análise. Esses seriam os 46 usuários (6%) que afirmaram participar do r/futebol “há um mês ou menos.” A ideia foi analisar apenas o r/futebol. Apesar de uma parte desses usuários continuar aqui após a Copa, não temos como saber quais, e nem quantos. Ainda assim, eles voltarão pra participar da segunda metade da análise mais tarde.
